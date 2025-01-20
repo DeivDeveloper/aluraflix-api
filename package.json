@@ -1,28 +1,24 @@
 {
-  "name": "alurageek-api",
+  "name": "aluraflix-api",
   "version": "1.0.0",
-  "description": "Videos for Aluraflix api",
+  "description": "Base de Datos de Aluraflix",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DeivDeveloper/aluraflix-api.git"
+    "url": "git+ssh://git@github.com/DeivDeveloper/aluraflix-api.git"
   },
   "keywords": [
     "alura",
-    "aluraflix",
+    "alura-geek",
     "json-server",
     "javascript",
     "API"
   ],
   "author": "DeivDeveloper, davidcursos009@gmail.com",
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
