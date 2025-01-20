@@ -1,28 +1,28 @@
 {
   "name": "alurageek-api",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "Videos for Aluraflix api",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SofiDevO/alurageek-API.git"
+    "url": ""
   },
   "keywords": [
     "alura",
-    "alurageek",
+    "aluraflix",
     "json-server",
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "DeivDeveloper, davidcursos009@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SofiDevO/alurageek-API/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/SofiDevO/alurageek-API#readme",
+  "homepage": "",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
